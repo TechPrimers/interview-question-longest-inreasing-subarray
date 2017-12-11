@@ -6,5 +6,5 @@
 ### Time Complexities
 - O(n) * O(n) = O(n^2) - worst 
 - O(n) - Feasible
-- O(nlogn) - Binary Search
+- O(logn) - Binary Search
 - O(1) - ruled out
